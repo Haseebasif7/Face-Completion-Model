@@ -17,4 +17,5 @@ The models output completed faces where the predicted lower part is merged with 
 
 Note: Hyperparameters should be tuned accordingly using optimization techniques for better performance (optimization was simplified for demonstration purposes).
 
-![image](https://github.com/user-attachments/assets/a7fee03c-ac91-457e-8b23-09acece54020)
+![image](https://github.com/user-attachments/assets/f7bb00aa-fc21-4727-afec-888da94aee6a)
+
