@@ -7,7 +7,7 @@ This project involves predicting the lower part of a face image based on the upp
 
 - **Multi-Model Prediction:** Implements multiple regression models, including Random Forest and Extra Trees, to predict the lower part of the face.
 - **Dimensionality Reduction:** PCA is applied to the training and testing data to reduce the number of features, optimizing the model’s performance and computational efficiency.
-- **Hyperparameter Tuning:** The model can be further enhanced by adjusting the hyperparameters, such as `n_estimators` and `min_samples_split`, for better predictions (though hyperparameter optimization was simplified for this project). Didnt done as due to computation issues
+- **Hyperparameter Tuning:** The model can be further enhanced by adjusting the hyperparameters, such as `n_estimators` ,`min_samples_split`,`max_depth`, for better predictions (though hyperparameter optimization was simplified for this project). Didnt done as due to computation issues
 - **MultiOutputRegressor:** Handles the multi-output regression task by predicting an array of pixel values at once for each image.
 
 
